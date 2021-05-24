@@ -1,0 +1,26 @@
+.Producto{
+width: 25%;
+padding: 10px;
+background: rgba(0,0,0,0.05);
+display: inline-block;
+margin: 5px;
+}
+
+.Producto .imagen-produ{
+width: 320px;
+height: 320px;
+}
+.Producto .name-produ{
+	padding: 10px;
+	color:#fff;
+	background:#FF3300;
+	text-align: center;
+
+}
+
+.Producto .precio-produ{
+	padding: 10px;
+	color:#fff;
+	background: #FF3300;
+	text-align: center;
+}

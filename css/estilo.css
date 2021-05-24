@@ -1,0 +1,44 @@
+*{
+	font-family:arial;
+}
+body{
+	padding:0;
+	margin:0;
+}
+.header{
+	background:#333;
+	color:white;
+	padding:30px;
+	text-align:center;
+	font-size:30px;
+	font-weight: bold;
+	text-transform:uppercase;
+
+}
+.menu {
+	padding: 10px;
+	background:#111;
+
+}
+.menu a{
+	text-decoration: none;
+	color:#fff;
+	background:#111;
+	padding:10px;
+}
+.menu a:hover
+{ /*Cuando pasemos el curso encima se vuelva negro*/
+	background:#000;
+
+}
+.cuerpo{
+	background:#00FFFF;
+	padding:10px;
+}
+
+.footer{
+	background:#000;
+	color:#000;
+	text-align: center;
+	font-size:10px;
+}
